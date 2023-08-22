@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rakesh Modak</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on **server deployment, nodejs**
+- 🔭 I’m currently working on **Nodejs, Server Deployment**
 
 - 🌱 I’m currently learning **DSA, React**
 
-- 💬 Ask me about **nodejs, server deployement**
+- 💬 Ask me about **JavaScript, Nodejs, Server Deployement**
 
 - 📫 How to reach me **rmodak57@gmail.com**
 
